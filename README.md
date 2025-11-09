@@ -1,11 +1,11 @@
-# Privacy Policy for [[TollSiganl]]
+# Privacy Policy for TollSiganl
 
-_Last updated: [[09.11.2025]]_
+_Last updated: 09.11.2025_
 
-Thank you for using **[[TollSignal]]**!  
+Thank you for using **TollSignal**!  
 This Privacy Policy explains how we handle your information when you use our application.
 
-If you have any questions, please contact us at: **[[tollsignall@gmail.com]**  
+If you have any questions, please contact us at: **tollsignall@gmail.com**  
 
 ---
 
@@ -98,7 +98,7 @@ You may have the right to:
 - Request data portability
 - File a complaint with your local supervisory authority
 
-To exercise rights, contact: **[[tollsignal@gmail.com]]**
+To exercise rights, contact: **tollsignal@gmail.com**
 
 ---
 
@@ -120,6 +120,6 @@ When changes are made, we will:
 
 ## 10. Contact Information
 
-**[[Kaloyan Naydenov]]**  
-Support email: **[[tollsignal@gmail.com]]**  
+**Kaloyan Naydenov**  
+Support email: **tollsignal@gmail.com**  
 
